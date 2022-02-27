@@ -1,0 +1,11 @@
+class SumOfArray{
+   public static void main(String args[]){
+      int[] array = {10, 15, 20, 25, 30, 100};
+      int sum = 0;
+      //Advanced for loop
+      for( int num : array) {
+          sum = 10+15+20+25+30+100=200;
+      }
+      System.out.println("Sum of array elements is:"+sum);
+   }
+}
